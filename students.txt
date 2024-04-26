@@ -1,0 +1,77 @@
+Name: Cyrill Kate Camacho
+Age: 17
+Gender: Female
+Date of Birth: 2006
+Address: Malabon
+State/Province: Manila
+Email: cyrillkatecamacho@gmail.com
+Phone: 09151661015
+
+Name: Ryza Mhay Topacio
+Age: 17
+Gender: Female
+Date of Birth: 2006
+Address: Malabon
+State/Province: Manila
+Email: ryzamhay2gmail.com
+Phone: 09636898056
+
+
+Name: Ellysa S. Maglinte
+Age: 17
+Gender: Female
+Date of Birth: 2006
+Address: Navotas 
+State/Province: Manila
+Email: maglinteellysa79@gmail.com
+Phone: 09271247026
+
+
+Name: Orench Struezel Manicad 
+Age: 18
+Gender: Female
+Date of Birth: 2005
+Address: Hulong Duhat, Malabon City 
+State/Province: Metro Manila
+Email: orenchstruezelmanicad@gmail.com
+Phone: 09213964587
+
+Name: Lyraalthea Pascual 
+Age: 18
+Gender: Female
+Date of Birth: 2006
+Address: Navotas 
+State/Province: Manila
+Email: plyraalthea@gmail.com
+Phone: 09701942890
+
+Name: Hazel G. Baltazar
+Age: 18
+Gender: Female
+Date of Birth: 2005
+Address: Malabon
+State/Province: Manila
+Email: baltazarhazel05@gmail.com
+Phone: 09517118050
+
+
+Name: April Mae Caguicla 
+Age: 18
+Gender: Female 
+Date of Birth: 2006
+Address: Malabon
+State/Province: Manila
+Email: aprilcaguicla2205@gmail.com 
+Phone: 09518541717
+
+
+
+ID number
+
+23-16372 - ellysa
+23-16371 - cyrill
+23-16373 - orench
+23-16374 - lyra
+23-16376 - ryza
+23-16370 - april
+23-16368- Hazel
